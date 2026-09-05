@@ -1,0 +1,28 @@
+{
+  "name": "orangehrm-cypress-automation",
+  "version": "1.0.0",
+  "description": "UI automation testing portfolio for OrangeHRM Open Source Demo using Cypress and JavaScript.",
+  "private": true,
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "validate": "node scripts/validate-portfolio.js"
+  },
+  "keywords": [
+    "qa",
+    "cypress",
+    "automation-testing",
+    "orangehrm",
+    "javascript"
+  ],
+  "author": "Iqbal Nur Hidayat",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "15.20.1"
+  },
+  "engines": {
+    "node": "^20.1.0 || ^22.0.0 || >=24.0.0"
+  }
+}
