@@ -1,5 +1,7 @@
 # OrangeHRM Cypress Automation
 
+![OrangeHRM Cypress Tests](https://github.com/iqbalnhdyt/orangehrm-cypress-automation/actions/workflows/orangehrm-cypress-tests.yml/badge.svg)
+
 UI automation testing portfolio project for the **OrangeHRM Open Source Demo** using **Cypress** and **JavaScript**.
 
 > **Portfolio Context**  
